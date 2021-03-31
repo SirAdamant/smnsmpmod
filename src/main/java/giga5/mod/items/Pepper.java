@@ -9,7 +9,7 @@ import net.minecraft.world.World;
 
 public class Pepper extends Item {
     public Pepper() {
-        super(new Item.Properties().food(new Food.Builder().hunger(1).saturation(2.4F).build()));
+        super(new Item.Properties().food(new Food.Builder().hunger(2).saturation(1.5F).build()));
     }
     public UseAction UseAction(ItemStack stack) {
         return UseAction.EAT;
