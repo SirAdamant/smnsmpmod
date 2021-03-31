@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern":
+    [
+        "xxx",
+        "xxx",
+        " c "
+    ],
+    "key":
+    {
+        "x":
+        {
+            "item": "minecraft:wheat"
+        },
+        "c":
+        {
+            "item": "minecraft:bowl"
+        }
+    },
+    "result":
+    {
+        "item": "smnsmpmod:chips",
+        "count": 1
+    }
+}

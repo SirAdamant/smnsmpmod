@@ -1,0 +1,22 @@
+{
+"desolate": {
+    "category": "record",
+    "subtitle": "yelldow - Desolate Escalator",
+    "sounds": [
+      {
+        "name": "smnsmpmod:desolate",
+        "stream": true
+      }
+    ]
+  },
+
+  "aspiration_for_absence": {
+  "category": "record",
+  "sounds": [
+  {
+  "name": "smnsmpmod:aspiration_for_absence",
+  "stream": true
+  }
+    ]
+  }
+}

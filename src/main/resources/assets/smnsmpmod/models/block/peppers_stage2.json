@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "smnsmpmod:block/peppers_stage2"
+  }
+}

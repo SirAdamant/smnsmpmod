@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients":
+  [
+    {
+      "item": "smnsmpmod:pepper"
+    },
+    {
+      "item": "smnsmpmod:pepper"
+    },
+    {
+      "item": "smnsmpmod:pepper"
+    },
+    {
+      "item": "minecraft:glass_bottle"
+    }
+  ],
+  "result":
+  {
+    "item": "smnsmpmod:salsa",
+    "count": 1
+  }
+}

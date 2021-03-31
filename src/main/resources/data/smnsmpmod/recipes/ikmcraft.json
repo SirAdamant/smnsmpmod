@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients":
+  [
+    {
+      "item": "smnsmpmod:bbqsauce"
+    },
+    {
+      "item": "minecraft:cooked_beef"
+    },
+    {
+      "item": "minecraft:bread"
+    },
+    {
+      "item": "minecraft:milk_bucket"
+    }
+  ],
+  "result":
+  {
+    "item": "smnsmpmod:ikoameatball",
+    "count": 16
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "age=0": {
+      "model": "smnsmpmod:block/peppers_stage0"
+    },
+    "age=1": {
+      "model": "smnsmpmod:block/peppers_stage1"
+    },
+    "age=2": {
+      "model": "smnsmpmod:block/peppers_stage2"
+    },
+    "age=3": {
+      "model": "smnsmpmod:block/peppers_stage3"
+    }
+  }
+}

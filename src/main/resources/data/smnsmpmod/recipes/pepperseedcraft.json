@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients":
+  [
+    {
+      "item": "smnsmpmod:pepper"
+    }
+  ],
+  "result":
+  {
+    "item": "smnsmpmod:pepper_seeds",
+    "count": 2
+  }
+}
