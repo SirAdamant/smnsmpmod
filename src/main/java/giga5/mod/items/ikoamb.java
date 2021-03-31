@@ -9,7 +9,7 @@ import net.minecraft.world.World;
 
 public class ikoamb  extends Item {
     public ikoamb() {
-        super(new Item.Properties().food(new Food.Builder().meat().saturation(2.2F).fastToEat().hunger(1).build()));
+        super(new Item.Properties().food(new Food.Builder().meat().saturation(1.6F).fastToEat().hunger(2).build()));
     }
     public UseAction UseAction(ItemStack stack) {
         return UseAction.EAT;
